@@ -1,1 +1,4 @@
-# Assignment3
+# Assignment
+This begins with the queue and ends with the infix - postfix expression
+The queue is based on linked lists and is functional, but errors can occur when using the menu I created. If you go into my code you can see the comments on where I was trying to clear the buffer, but it wasn't working. an Error is triggered if you try to enter anything except an integer to the enQueue function. Menu works fine if you enter what you are supposed to.
+The infix to postfix works if you don't use parenthesis. It does check for an uneven amount of parenthesis correctly, but it either postions them incorrectly in the final result or gives you an error message. If you don't have parenthesis it works great. I have been trying to solve the parentheses logic error for a few days now, but I can't figure out what I did wrong. If you are able to figure it out and have the time to point it out to me I would appreciate it, feel free to edit or comment on anything you notice. 
